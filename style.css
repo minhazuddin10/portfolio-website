@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap');
 
 :root{
-    --yellow:#fce731;
+    --yellow:#f9ca24;
 }
 
 *{
@@ -369,7 +369,7 @@ header .navbar ul li a:hover{
 }
 
 .contact .row .content .title{
-    
+    text-transform: uppercase;
     color:#fff;
     font-size: 3rem;
     padding-bottom: 2rem;
@@ -398,6 +398,23 @@ header .navbar ul li a:hover{
     z-index: 100;
     display: none;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* media queries  */
@@ -433,10 +450,6 @@ header .navbar ul li a:hover{
    }
 
 }
-
-
-
-/* Responsive */
 
 @media (max-width:768px){
 
